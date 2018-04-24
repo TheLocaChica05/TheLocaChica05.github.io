@@ -1,0 +1,11 @@
+@font-face{
+    font-family: Dinpro;
+    src: url(DINPRO-Regular_13937.ttf)}
+nav {
+    font-family: Dinpro;
+    }
+.bg-green{
+    background-color: rgba(116, 184, 0, 0.87);}
+#jumbotron{
+    color: black;
+}

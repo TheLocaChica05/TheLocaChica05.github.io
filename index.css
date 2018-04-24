@@ -1,0 +1,22 @@
+@font-face {
+    font-family: dinpro;
+    src: url(DINPRO-Regular_13937.ttf)
+}
+
+.jumbotron {
+  padding: 10px;
+	background-color: white;
+}
+
+.bg-company-red {
+	background-color: white;
+}
+
+.bg-blue {
+	background-color: rgba(116, 184, 0, 0.87);
+}
+
+
+
+h1 { font-family: 'DINPro'; }
+

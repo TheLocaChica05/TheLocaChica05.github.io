@@ -1,6 +1,6 @@
 @font-face {
-    font-family: dinpro;
-    src: url(DINPRO-Regular_13937.ttf)
+    font-family: DinProRegular;
+    src: url('DINProRegular.otf');
 }
 
 .jumbotron {
@@ -17,6 +17,5 @@
 }
 
 
-
-h1 { font-family: 'DINPro'; }
+.body {font-family: 'DINProRegular';}
 
